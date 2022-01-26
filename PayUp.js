@@ -1,4 +1,4 @@
-let bill = prompt("Total of your food?");
+let bill = prompt("Total of your food bill?");
 
 let taxes = bill*.07;
 let subtotal = bill+taxes;
